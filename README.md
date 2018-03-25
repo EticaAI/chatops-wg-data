@@ -1,4 +1,13 @@
-# ChatOps WG 2018/01 - "Data Lake" _for non-DevOps people_
+# ChatOps WG 2018/01 - Data
+
+<!--
+  TODO: chatops-wg (the working group) have a defined date limit, but this
+        repository will probably continue to be used as a starting point for
+        open source tools related to data manipulation by non-specialists.
+        We should have special attention to tools who could be managed even
+        on very poor internet conditions (fititnt, 2018-03-25 17:56 BRT)
+-->
+
 Research on Data Lake philosophy & simplified interfaces as one way to make
 easier less specialized coworkers to bootstrap intelligent agents. Read
 [chatops-wg#32](https://github.com/fititnt/chatops-wg/issues/32) initial
